@@ -1,1 +1,14 @@
-[{"nome":"Lindembergh","login":"limadruga","senha":"12345","cpf":"093847473"},{"nome":"Arthur","login":"arthur.2011","senha":"3225644","cpf":"9403204892"}]
+[
+  {
+    "nome": "Lindembergh",
+    "login": "limadruga",
+    "senha": "12345",
+    "cpf": "093847473"
+  },
+  {
+    "nome": "Arthur",
+    "login": "arthur.2011",
+    "senha": "3225644",
+    "cpf": "9403204892"
+  }
+]
