@@ -47,7 +47,7 @@ public class ApachePoi2 {
 			pessoas.add(pessoa);
 		}
 		entrada.close(); /*Terminou de ler o arquivo excel*/
-		for(Pessoa pessoa: pessoas) {
+		for(Pessoa pessoa: pessoas) { /*Poderia gravar no banco de dados*/
 			System.out.println(pessoa);
 		}
 	}
